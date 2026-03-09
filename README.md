@@ -1,4 +1,4 @@
-# PokOomon - Cloud Migration of a Pokemon API
+# PokOomon - Self-healing serverless API
 
 ## Project Overview
 
@@ -157,10 +157,7 @@ The solution implements a **Pokédex API** that enables users to search and retr
 
 ### Installation & Deployment
 
-1. **Clone the repository**
-   ```bash
-   git clone https://git-codecommit.eu-west-1.amazonaws.com/v1/repos/sam
-   ```
+1. ** Fork and clone the repository**
 
 2. **Build the SAM application**
    ```bash
