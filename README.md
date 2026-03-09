@@ -1,8 +1,8 @@
-# Pokédex API - Cloud Migration Project
+# PokOomon - Cloud Migration of a Pokemon API
 
 ## Project Overview
 
-This project demonstrates a **cloud migration from on-premises infrastructure to AWS**, showcasing how a small startup can achieve **reliability, cost-effectiveness, agility, and automation** through modern cloud-native architecture.
+This project demonstrates a **cloud migration from on-premises infrastructure to AWS**, showcasing how a small startup, Oomon, can achieve **reliability, cost-effectiveness, agility, and automation** through modern cloud-native architecture.
 
 The solution implements a **Pokédex API** that enables users to search and retrieve Pokémon information through RESTful endpoints, built entirely on AWS serverless technologies.
 
@@ -308,10 +308,10 @@ This project is created for educational and demonstration purposes.
 ## Acknowledgments
 
 - AWS Serverless Application Model (SAM) documentation
-- Pokémon API data source
+- Pokémon API data source: The Complete Pokemon Dataset, Kaggle
 - Cloud migration best practices from industry standards
 
 ---
 
-**Last Updated**: January 30, 2026
-**Project Status**: Active Development 
+**Last Updated**: March 9, 2026
+**Project Status**: Archived
