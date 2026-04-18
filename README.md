@@ -1,4 +1,4 @@
-# PokOomon - Self-healing serverless API
+# PokOomon - Serverless API 
 
 ## Project Overview
 
